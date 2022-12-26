@@ -1,8 +1,5 @@
 **IAPG PL 2022/2023 software project**
 
-Grup:
-* Bertuğ Abalı, 2022122882
-
 List of requirements:
 1. Menu system (implemented).   (Implemented/Partially Implemented/Not Implemented): Optional short descriptive sentence with functions used for this requirement
 2. Data structure to store each player's data (implemented). In fileSettings.c script, player data saved by updatePlayer, createPlayer, writeTextFile functions.   
