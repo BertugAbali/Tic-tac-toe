@@ -76,6 +76,7 @@ void gameConfigurations()
     }
     else
     {
+        computer=0;
         printf("Please enter first player username:");
         scanf("%s", &player1.name);
         printf("Please enter second player username:");
